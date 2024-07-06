@@ -1,2 +1,5 @@
-# wan-to-be-a-hard-progammer-or-full-stack-developer
-repositori untuk rencana WPU ke depannya
+WPU resolusi
+
+- saya ingin fokus ngoding
+- ngoding sekali sehari
+- minimal sejam sehari ngoding
